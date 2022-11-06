@@ -2,10 +2,10 @@
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Information Technology and Software Production Technology at University of Bari Aldo Moro
 - 📫 How to reach me⬇️
-     🌐 Website: https://matteomassaro.altervista.org/
-     📷 Instagram: https://www.instagram.com/matteo__massaro/
-     👥 Facebook: https://www.facebook.com/matteo.massaro.167/
-     👔 Linkedin: https://www.linkedin.com/in/matteo-massaro-b2332524b/
+     - 🌐 Website: https://matteomassaro.altervista.org/
+     - 📷 Instagram: https://www.instagram.com/matteo__massaro/
+     - 👥 Facebook: https://www.facebook.com/matteo.massaro.167/
+     - 👔 Linkedin: https://www.linkedin.com/in/matteo-massaro-b2332524b/
 
 <!---
 MatteoMassaro/MatteoMassaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
