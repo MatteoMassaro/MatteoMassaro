@@ -6,6 +6,7 @@
      - 👔 Linkedin: https://www.linkedin.com/in/matteo-massaro-b2332524b/
      - 👥 Facebook: https://www.facebook.com/matteo.massaro.167/
      - 📷 Instagram: https://www.instagram.com/matteo__massaro/
+     - 📧 Email: massaromatteo21@gmail.com
 
 <!---
 MatteoMassaro/MatteoMassaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
