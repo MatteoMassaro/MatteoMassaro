@@ -4,19 +4,19 @@
 
 <div align="center" id="badges">
   <a href="https://matteomassaro.altervista.org/">
-     <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+     <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/matteo-massaro-b2332524b/">
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/matteo.massaro.167/">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/matteo__massaro/">
-     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:massaromatteo21@gmail.com">
-     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
