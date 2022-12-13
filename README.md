@@ -1,5 +1,5 @@
 <div align="center" id="profile-picture">
-     <img src="https://matteomassaro.altervista.org/wp-content/uploads/2022/10/LogoHomePage.png" alt="Profile Picture"/>
+     <img src="https://matteomassaro.altervista.org/wp-content/uploads/2022/10/LogoHomePage.png" height="150" width="400" alt="Profile Picture"/>
 </div>
 
 <div align="center" id="badges">
