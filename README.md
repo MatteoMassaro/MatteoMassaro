@@ -23,8 +23,8 @@
 ---
 ### 🧑‍💻 About me:
 - 👋 Hi, I’m @MatteoMassaro
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Information Technology and Software Production Technology at University of Bari Aldo Moro
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently working in DXC Technology as a Junior Software Developer
 - 📫 How to reach me⬇️
      - 🌐 Website: https://matteomassaro.altervista.org/
      - 👔 Linkedin: https://www.linkedin.com/in/matteo-massaro-b2332524b/
