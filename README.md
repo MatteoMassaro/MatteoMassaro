@@ -24,7 +24,7 @@
 ### 🧑‍💻 About me:
 - 👋 Hi, I’m @MatteoMassaro
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working in DXC Technology as Junior Software Developer
+- 🌱 I’m currently working in DXC Technology as Analyst II Software Engineer
 - 📫 How to reach me⬇️
      - 🌐 Website: https://matteomassaro.altervista.org/
      - 👔 Linkedin: https://www.linkedin.com/in/matteo-massaro-b2332524b/
