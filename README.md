@@ -68,9 +68,9 @@
 
 ### 📊 My Stats:
 
-[![Matteo's github stats](https://github-readme-stats-matteomassaro.vercel.app/api?username=matteomassaro&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/MatteoMassaro/github-readme-stats)
+[![Matteo's github stats](http://github-readme-stats-psi-nine-25.vercel.app/api?username=matteomassaro&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/MatteoMassaro/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matteomassaro&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats-matteomassaro.vercel.app//api/top-langs/?username=matteomassaro&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-readme-stats-psi-nine-25.vercel.app/api/top-langs/?username=matteomassaro&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
